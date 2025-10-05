@@ -17,4 +17,4 @@ I'm a **Software Engineering student** student at Addis Ababa University with a 
 * **Email:** [rahelyabebal@gmail.com](mailto:rahelyabebal@gmail.com)
 * **LinkedIn:** [linkedin.com/in/rahel-yabebal](https://www.linkedin.com/in/rahel-yabebal-80795b2ba/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahel-yab&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahel-yab&theme=github)
