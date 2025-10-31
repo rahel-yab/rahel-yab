@@ -1,6 +1,6 @@
 # 👋 Hi there, Rahel here!
 
-I'm a **Software Engineering student** student at Addis Ababa University with a focus on backend development and AI/ML.
+I'm a **Software Engineering student** at Addis Ababa University with a focus on backend development and AI/ML.
 
 ---
 
