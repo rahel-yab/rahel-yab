@@ -7,8 +7,8 @@ I'm a **Software Engineering student** at Addis Ababa University with a focus on
 ### 🛠️ Skills & Tools
 
 * **Languages:** Python, Golang, JavaScript, TypeScript, Java
-* **Frameworks & Libraries:** Gin Framework, Next.js, React, Tailwind CSS, Flutter
-* **Databases & Tools:** MongoDB, PostgreSQL, Git, Figma
+* **Frameworks & Libraries:** Gin Framework, Next.js, React, Tailwind CSS, FastAPI
+* **Databases & Tools:** MongoDB, PostgreSQL, Git, Figma, Docker
 
 ---
 
