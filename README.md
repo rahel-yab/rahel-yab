@@ -1,4 +1,4 @@
-# 👋 Hi, Rahel here!
+# Hi, Rahel here 👋 
 
 I'm a **Software Engineering student** at Addis Ababa University with a focus on backend development and AI/ML.
 
