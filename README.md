@@ -6,17 +6,71 @@ I'm a **Software Engineering student** at Addis Ababa University with a focus on
 
 ### 🛠️ Skills & Tools
 
-**Languages**
+<div class="space-y-2">
+  <h3 class="text-sm text-gray-300">Languages</h3>
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" /> </p>
+  <div class="flex flex-wrap gap-3">
+    <span class="flex items-center gap-2 px-3 py-1.5 rounded-md bg-blue-700 text-white text-sm">
+      <img src="/icons/python.svg" class="h-4 w-4" />
+      Python
+    </span>
 
-**Frameworks & Libraries**
+    <span class="flex items-center gap-2 px-3 py-1.5 rounded-md bg-cyan-700 text-white text-sm">
+      <img src="/icons/go.svg" class="h-4 w-4" />
+      Go
+    </span>
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" width="40" title="Gin Framework" /> </p>
+    <span class="flex items-center gap-2 px-3 py-1.5 rounded-md bg-yellow-600 text-black text-sm">
+      <img src="/icons/javascript.svg" class="h-4 w-4" />
+      JavaScript
+    </span>
 
-**Databases & Tools**
+    <span class="flex items-center gap-2 px-3 py-1.5 rounded-md bg-blue-600 text-white text-sm">
+      <img src="/icons/typescript.svg" class="h-4 w-4" />
+      TypeScript
+    </span>
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" /> </p>
+    <span class="flex items-center gap-2 px-3 py-1.5 rounded-md bg-red-700 text-white text-sm">
+      <img src="/icons/java.svg" class="h-4 w-4" />
+      Java
+    </span>
+  </div>
+</div>
+
+
+<div class="space-y-2">
+  <h3 class="text-sm text-gray-300">Frameworks & Libraries</h3>
+
+  <div class="flex flex-wrap gap-3">
+    <span class="badge bg-sky-600">⚛ React</span>
+    <span class="badge bg-blue-800">🧵 Gin</span>
+    <span class="badge bg-gray-700">EX Express.js</span>
+    <span class="badge bg-red-600">NestJS</span>
+    <span class="badge bg-green-700">Node.js</span>
+    <span class="badge bg-teal-600">Tailwind CSS</span>
+  </div>
+</div>
+
+<div class="space-y-2">
+  <h3 class="text-sm text-gray-300">Databases</h3>
+
+  <div class="flex flex-wrap gap-3">
+    <span class="badge bg-blue-700">Postgres</span>
+    <span class="badge bg-green-600">MongoDB</span>
+    <span class="badge bg-blue-500">MySQL</span>
+    <span class="badge bg-indigo-700">SQLite</span>
+  </div>
+</div>
+
+<div class="space-y-2">
+  <h3 class="text-sm text-gray-300">Cloud & Tools</h3>
+
+  <div class="flex flex-wrap gap-3">
+    <span class="badge bg-cyan-600">Docker</span>
+    <span class="badge bg-orange-500">Jupyter</span>
+    <span class="badge bg-black">Vercel</span>
+  </div>
+</div>
 
 ---
 
