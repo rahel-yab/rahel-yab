@@ -4,7 +4,7 @@ I'm a **Software Engineering student** at Addis Ababa University with a focus on
 
 ---
 
-### 🛠️ Skill and Tools
+### 🛠️ Skills and Tools
 
 * **Languages**
     
@@ -13,7 +13,7 @@ I'm a **Software Engineering student** at Addis Ababa University with a focus on
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-* ** 🛠️ Frameworks & Libraries**
+* **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Gin](https://img.shields.io/badge/Gin-0081CB?style=flat&logo=go&logoColor=white)
