@@ -1,6 +1,6 @@
 ## Hi, Rahel here 👋 
 
-I'm a **Software Engineering student** at Addis Ababa University with a focus on backend development and AI/ML.
+I'm a Software Engineering student at Addis Ababa University, with a focus on backend development and AI/ML. I turn ideas into reliable and scalable software. I'm currently exploring how data-driven insights can drive better decisions.
 
 ---
 
@@ -36,6 +36,6 @@ I'm a **Software Engineering student** at Addis Ababa University with a focus on
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Get in touch!
 - [Email](mailto:rahelyabebal@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/rahel-yabebal-80795b2ba/)
