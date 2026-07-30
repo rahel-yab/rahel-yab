@@ -1,6 +1,6 @@
 ## Hi, Rahel here 👋 
 
-I'm a Software Engineering student at Addis Ababa University, with a focus on backend development and AI/ML. I'm currently exploring how data-driven insights can drive better decisions.
+Focused software engineer with a strong foundation in building concurrent systems, designing secure multi-tenant architectures, and integrating machine learning pipelines. Experienced in developing reliable and API-driven services with an interest in algorithmic problem-solving.
 
 ---
 
