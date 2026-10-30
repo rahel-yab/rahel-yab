@@ -1,6 +1,9 @@
 ## Hi, Rahel here 👋 
 
-Focused software engineer with a strong foundation in building concurrent systems, designing secure multi-tenant architectures, and integrating machine learning pipelines. Experienced in developing reliable and API-driven services with an interest in algorithmic problem-solving.
+Software Engineer experienced in building backend systems, REST APIs, database-driven applications, and AI
+integrated services using Go, Laravel, PostgreSQL, and Python. Strong foundation in data structures, algorithms, 
+concurrency, system design, and databases, with experience building backend services and resolving production 
+issues.
 
 ---
 
